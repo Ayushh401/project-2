@@ -2,6 +2,9 @@
 
 A production-ready multi-agent system built with React, TypeScript, and Tailwind CSS that demonstrates intelligent business automation using CrewAI-inspired agents for customer support and business analytics.
 
+##Live
+https://project-2-alpha-nine.vercel.app/
+
 ## 🎯 Overview
 
 This application showcases two specialized AI agents working together to handle business operations:
